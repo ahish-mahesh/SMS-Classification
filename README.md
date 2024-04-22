@@ -1,4 +1,4 @@
-# SMS-Classification
+# Enhancing SMS Spam Detection Using FIEL Approach
 Semi-supervised learning using frequent itemset and ensemble learning for SMS classification
 
 ## Summary
